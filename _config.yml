@@ -27,3 +27,4 @@ defaults:
       layout: post
 kramdown:
   input: GFM
+theme: jekyll-theme-dinky
